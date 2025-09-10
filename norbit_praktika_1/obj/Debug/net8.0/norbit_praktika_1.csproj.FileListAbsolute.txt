@@ -1,0 +1,14 @@
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\bin\Debug\net8.0\norbit_praktika_1.exe
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\bin\Debug\net8.0\norbit_praktika_1.deps.json
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\bin\Debug\net8.0\norbit_praktika_1.runtimeconfig.json
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\bin\Debug\net8.0\norbit_praktika_1.dll
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\bin\Debug\net8.0\norbit_praktika_1.pdb
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.AssemblyInfoInputs.cache
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.AssemblyInfo.cs
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.dll
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\refint\norbit_praktika_1.dll
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.pdb
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.genruntimeconfig.cache
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\ref\norbit_praktika_1.dll
