@@ -12,3 +12,4 @@ C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug
 C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.pdb
 C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.genruntimeconfig.cache
 C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\ref\norbit_praktika_1.dll
+C:\Users\Виктор\source\repos\norbit_praktika_1\norbit_praktika_1\obj\Debug\net8.0\norbit_praktika_1.sourcelink.json
